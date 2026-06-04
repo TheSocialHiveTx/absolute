@@ -1,0 +1,6 @@
+{
+  "name": "Absolute Plumbing Services",
+  "description": "Professional plumbing services in Deer Park, TX. Schedule services, request estimates, and consult our AI-powered troubleshooting assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
